@@ -1,0 +1,11 @@
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.exe.config
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.exe
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.pdb
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.Lib.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\tyuiu.cources.programming.interfaces.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.Lib.pdb
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.csproj.AssemblyReference.cache
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.csproj.CoreCompileInputs.cache
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.csproj.CopyComplete
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.exe
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task2.V13\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task2.V13.pdb
