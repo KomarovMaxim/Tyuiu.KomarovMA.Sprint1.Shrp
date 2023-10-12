@@ -1,0 +1,17 @@
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.pdb
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Lib.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Lib.pdb
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.csproj.AssemblyReference.cache
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.csproj.CoreCompileInputs.cache
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.csproj.CopyComplete
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task4.V4.Test.pdb
