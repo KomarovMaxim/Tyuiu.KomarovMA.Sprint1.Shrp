@@ -1,0 +1,7 @@
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\bin\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.pdb
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.csproj.CoreCompileInputs.cache
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.csproj.CopyComplete
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.dll
+D:\SOURSE\Tyuiu.KomarovMA.Sprint1.Shrp\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib\obj\Debug\Tyuiu.KomarovMA.Sprint1.Task7.V17.Lib.pdb
